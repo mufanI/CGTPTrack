@@ -1,0 +1,13 @@
+CGTPTrack local verification, 2026-10-08
+Python 3.12; PyTorch 2.4.1+cpu; torchvision 0.19.1+cpu; timm 0.9.2
+No trained weights, dataset evaluation or server-code synchronization performed.
+
+.................                                                        [100%]
+17 passed, 14 warnings in 16.16s
+
+AST parse: 121 Python files passed.
+Only baseline.yaml and baseline_full.yaml retained.
+Full training dataset weights: 1:1:1:1.
+Old model namespace: no matches in maintained text sources.
+Training, worker, testing and analysis --help entry checks passed.
+Windows Unicode/quoted local-path generation validated.
